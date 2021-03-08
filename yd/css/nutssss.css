@@ -82,10 +82,6 @@ body {
     }
 }
 
-.meBox:hover .meBox-title p {
-    font-size: 1.3rem;
-}
-
 .meBox-title .fg {
     width: 80%;
     height: 2px;
