@@ -166,7 +166,7 @@ body {
 #cmdBox {
     width: 710px;
     height: 550px;
-    float: center;
+    float: right;
     /* background-color: green; */
 }
 
