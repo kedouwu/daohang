@@ -93,6 +93,8 @@ body {
     transition: all 0.3s;
 }
 
+.meBox:hover .meBox-title p {
+    font-size: 1.3rem;
 
 }
 
