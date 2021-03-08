@@ -166,7 +166,7 @@ body {
 #cmdBox {
     width: 710px;
     height: 550px;
-    float: right;
+    float: center;
     /* background-color: green; */
 }
 
@@ -179,7 +179,7 @@ body {
     transition: all 0.3s;
     font-size: 14px;
     color: rgb(88, 89, 92);
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
 }
